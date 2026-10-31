@@ -29,7 +29,7 @@ projects, open-source contributions, and continuous practice.
 📌 Projects
 
 I maintain a curated set of pinned projects on my profile, with @test being a personal highlight.
-Currently, I have 38 public repositories, alongside 200+ private projects built through continuous learning, experimentation, and iteration.
+Currently, I have 54 public repositories, alongside 200+ private projects built through continuous learning, experimentation, and iteration.
 
 ---
 
